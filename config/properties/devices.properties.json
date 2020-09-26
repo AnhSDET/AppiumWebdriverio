@@ -1,0 +1,72 @@
+[
+    {
+        "platformName": "iOS",
+        "platformVersion": "12.1",
+        "deviceName": "NVG iPad Pro - Trung Hanuman",
+        "deviceType": "iPad",
+        "udid": "00008027-000530CA02E8002E"
+    },
+    {
+        "platformName": "iOS",
+        "platformVersion": "12.2",
+        "deviceName": "NVG iPad Pro - Dung Hanuman",
+        "deviceType": "iPad",
+        "udid": "00008027-0018301A34E8002E"
+    },
+    {
+        "platformName": "iOS",
+        "platformVersion": "12.1.1",
+        "deviceName": "NVG iPad Pro - Tam Hanuman",
+        "deviceType": "iPad",
+        "udid": "00008027-001169D61184002E"
+    },
+    {
+        "platformName": "iOS",
+        "platformVersion": "13.7",
+        "deviceName": "NVG iPad Pro - AnhMai Hanuman",
+        "deviceType": "iPad",
+        "udid": "6b04e45cc0bed61bcdd834ff2afa66375b927209"
+    },
+    {
+        "platformName": "iOS",
+        "platformVersion": "12.1",
+        "deviceName": "NVG iPad Pro - Quang Hanuman",
+        "deviceType": "iPad",
+        "udid": "00008027-000D78191EE8002E"
+    },
+    {
+        "platformName": "iOS",
+        "platformVersion": "13.5.1",
+        "deviceName": "NVG iPhone 7 - Dung Hanuman",
+        "deviceType": "iPhone",
+        "udid": "2e0cb097b403dfa52b658016cfbd52ffdf7234f9"
+    },
+    {
+        "platformName": "iOS",
+        "platformVersion": "13.5.1",
+        "deviceName": "NVG iPhone 6S Plus - AnhMai Hanuman",
+        "deviceType": "iPhone",
+        "udid": "17d8c770e6d2e6e6030ee12ff3b8d0f7a8d964a8"
+    },
+    {
+        "platformName": "iOS",
+        "platformVersion": "13.1.3",
+        "deviceName": "NVG iPhone X - Trung Hanuman",
+        "deviceType": "iPhone",
+        "udid": "619f34647d2d9437dba1faf39ae35c2b86279b5b"
+    },
+    {
+        "platformName": "iOS",
+        "platformVersion": "12.3",
+        "deviceName": "NVG iPhone X - Tam Hanuman",
+        "deviceType": "iPhone",
+        "udid": "a6f5ca0c9ea349813e6053ca0ccf840f17c6cb5d"
+    },
+    {
+        "platformName": "iOS",
+        "platformVersion": "14.0",
+        "deviceName": "NVG iPhone X - AnhMai Hanuman",
+        "deviceType": "iPhone",
+        "udid": "01efd289374fd4e7d6003606f3fad0ef2de7881e"
+    }
+]

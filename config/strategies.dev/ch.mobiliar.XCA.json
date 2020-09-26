@@ -1,0 +1,38 @@
+{
+    "xcodeOrgId": "VXMWK5649M",
+    "xcodeSigningId": "iPhone Developer",
+    "bundleId": "ch.mobiliar.XCA",
+    "appPath": "/Users/anhmai/Documents/IPA/XpertCenter App.ipa",
+    "simulatorAppPath": "/Users/anhmai/Documents/IPA/Claim.app.zip",
+    "strategies": [
+        {
+            "debug": true,
+            "enabled": true,
+            "mode": "SINGLE",
+            "deviceName": "NVG iPhone 6S Plus - AnhMai Hanuman",
+            "useSuites": true,
+            "suites": {
+                "login": {
+                    "enabled": false,
+                    "testCases": ["login.spec.js"]
+                },
+                "others": {
+                    "enabled": false,
+                    "testCases": ["others.spec.js"]
+                },
+                "new-expertise": {
+                    "enabled": false,
+                    "testCases": ["new-expertise.spec.js"]
+                },
+                "expertise-details": {
+                    "enabled": true,
+                    "testCases": ["expertise-details.spec.js"]
+                },
+                "overview": {
+                    "enabled": false,
+                    "testCases": ["overview.spec.js"]
+                }
+            }
+        }
+    ]
+}

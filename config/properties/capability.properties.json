@@ -1,0 +1,16 @@
+{
+    "appiumVersion": "1.19.0-beta.0",
+    "language": "en",
+    "locale": "en_GB",
+    "browserName": "",
+    "autoWebview": true,
+    "automationName": "XCUITest",
+    "platformName": "iOS",
+    "platformVersion": "",
+    "deviceName": "",
+    "udid": "",
+    "enablePerformanceLogging": false,
+    "showIOSLog": false,
+    "includeSafariInWebviews": true,
+    "noReset": true
+}

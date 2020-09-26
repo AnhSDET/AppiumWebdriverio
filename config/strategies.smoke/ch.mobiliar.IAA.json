@@ -1,0 +1,46 @@
+{
+    "xcodeOrgId": "VXMWK5649M",
+    "xcodeSigningId": "iPhone Developer",
+    "bundleId": "ch.mobiliar.IAA",
+    "appPath": "/Users/anhmai/Documents/IPA/Insurance Agent App.ipa",
+    "simulatorAppPath": "/Users/anhmai/Documents/IPA/Claim.app.zip",
+    "strategies": [
+        {
+            "debug": false,
+            "enabled": true,
+            "mode": "MULTI",
+            "deviceName": "NVG iPhone X - AnhMai Hanuman",
+            "useSuites": true,
+            "suites": {
+                "partner-contracts": {
+                    "enabled": true,
+                    "testCases": ["partner-contracts.spec.js"]
+                },
+                "search-partner": {
+                    "enabled": false,
+                    "testCases": ["search-partner.spec.js"]
+                },
+                "menu-navigation": {
+                    "enabled": false,
+                    "testCases": ["menu-navigation.spec.js"]
+                },
+                "partner-details": {
+                    "enabled": false,
+                    "testCases": ["partner-details.spec.js"]
+                },
+                "partner-relations": {
+                    "enabled": false,
+                    "testCases": ["partner-relations.spec.js"]
+                },
+                "partner-claims": {
+                    "enabled": false,
+                    "testCases": ["partner-claim.spec.js"]
+                },
+                "partner-offers": {
+                    "enabled": false,
+                    "testCases": ["partner-offers.spec.js"]
+                }
+            }
+        }
+    ]
+}
